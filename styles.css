@@ -16,6 +16,7 @@ body {
     align-items: center;
     width: 100%;
     min-height: 100vh;
+    height: auto;
     overflow: hidden;
     background: linear-gradient(
         to bottom, 
@@ -31,8 +32,8 @@ body {
 .avatar {
     margin-top: 40px;
     margin-bottom: 10px;
-    width: 140px;
-    height: 140px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
     object-fit: cover;
 }
