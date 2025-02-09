@@ -1,12 +1,12 @@
 const links = [
     {
-        text: "Currículo", url: "#"
+        text: "Currículo", url: "in-production.html"
     },
     {
-        text: "Portfólio", url: "#"
+        text: "Portfólio", url: "in-production.html"
     },
     {
-        text: "Contato", url: "#"
+        text: "Contato", url: "in-production.html"
     }
 ];
 

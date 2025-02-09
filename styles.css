@@ -26,10 +26,10 @@ body {
 }
 
 .avatar {
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 10px;
-    width: 100px;
-    height: 100px;
+    width: 140px;
+    height: 140px;
     border-radius: 50%;
     object-fit: cover;
 }
