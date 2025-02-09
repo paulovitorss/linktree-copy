@@ -99,3 +99,11 @@ h1 {
     font-size: 10px;
     color: #fff;
 }
+
+@media screen and (max-width: 400px) {
+    .btn {
+        font-size: 14px;
+        width: 320px;
+        height: 60px;
+    }
+}
