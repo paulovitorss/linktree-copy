@@ -8,10 +8,11 @@
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
+
 body {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     width: 100%;
     min-height: 100vh;
@@ -28,7 +29,7 @@ body {
 }
 
 .avatar {
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 10px;
     width: 140px;
     height: 140px;
